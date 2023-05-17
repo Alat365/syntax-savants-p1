@@ -8,6 +8,6 @@ Then, we wanted to find out which styles of beer are most popular amongst beer d
 
 Next, we used our data analysis skills to see what quantities (in ounces) that beer consumers prefer when ordering beer. 
 
-We then looked at beer ratings and how they were affected by ABV and IBU of each beer. Do our future customers prefer beer that is higher in alcohol by volume? How does the level of bitterness affect their overall opinion of the beer?
+We were also curious about ABVs effect on bitterness. If our beer is higher in alcohol content will its taste be more bitter than those beers with lower alcohol by volume. We also looked at the comparison of two of the top ten beers (American IPAs and American Blonde Ale) and their ABV percentages to see if IPAs tended to be higher.
 
-We will use all of this information to strategically decide the best way to launch our beer business! 
+We will use all of this information to strategically decide the best way to launch our beer business!
